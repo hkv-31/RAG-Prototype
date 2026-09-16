@@ -28,7 +28,7 @@ Answer + Sources
 
 ## Dataset
 
-The repository contains three public research PDFs about RAG, sentence embeddings, and Transformers, plus the public Google Machine Learning Glossary CSV. See [DATA SOURCES.md](DATA_SOURCES.md) for the original URLs and usage information.
+The repository contains three public research PDFs about RAG, sentence embeddings, and Transformers, plus the public Google Machine Learning Glossary CSV. See [DATA SOURCES.md](DATA SOURCES.md) for the original URLs and usage information.
 
 ## Tech Stack
 
