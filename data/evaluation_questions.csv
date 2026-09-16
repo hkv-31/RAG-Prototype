@@ -1,0 +1,9 @@
+question,expected_source
+What is retrieval-augmented generation?,rag_paper.pdf
+How does RAG combine parametric and non-parametric memory?,rag_paper.pdf
+What is a sentence embedding?,sentence_bert.pdf
+How does Sentence-BERT create useful sentence representations?,sentence_bert.pdf
+What is self-attention?,transformer.pdf
+Why does the Transformer architecture avoid recurrence?,transformer.pdf
+What is an embedding in machine learning?,ml_glossary.csv
+What is overfitting?,ml_glossary.csv

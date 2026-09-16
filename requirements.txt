@@ -1,0 +1,7 @@
+groq
+python-dotenv
+sentence-transformers
+faiss-cpu
+langchain-community
+langchain-text-splitters
+pypdf
